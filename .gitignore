@@ -28,6 +28,7 @@ yarn-error.log*
 *.tsbuildinfo
 
 # extras
+dist
 .vscode
 
 docker-compose.production.yml
